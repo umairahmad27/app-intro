@@ -1,0 +1,3 @@
+rootProject.name = 'technaAppIntro'
+
+include ':app'
